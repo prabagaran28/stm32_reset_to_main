@@ -1,6 +1,9 @@
 # stm32_reset_to_main
 booting stm32f1 bulephill from srach using gnu toolchain 
 bare minial setup to   run c code . not using standard lib and newlib
+On-chip flash 32kb
+on-chip ram 10kb
+STM32F103c6t6
 ## Compiling with custom linker script and startup file
 
 
