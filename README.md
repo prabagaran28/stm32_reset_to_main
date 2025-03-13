@@ -4,6 +4,8 @@ bare minial setup to   run c code . not using standard lib and newlib
  * On-chip flash 32kb
  * on-chip ram 10kb
  * STM32F103c6t6
+
+<img src="/STM32F103-Bule-Pill-1536x1000.jpg">
 ## Compiling with custom linker script and startup file
 
 
