@@ -16,7 +16,7 @@ If you want to link your program without the default C library (`libc`), startup
 arm-none-none-eabi-gcc -mcpu=cortex-m3 -mthumb -std=c11 -O0 -g -c main.c -o main.o
 arm-none-none-eabi-gcc -mcpu=cortex-m3 -mthumb -std=c11 -O0 -g -c crt.c -o crt.o
 arm-none-none-eabi-gcc -nolibc -nostartfiles -T linker.ld -Wl,-Map=blink.elf main.o crt.o -o blink.elf
-
+```
 
 
 
