@@ -5,7 +5,7 @@ bare minial setup to   run c code . not using standard lib and newlib
  * on-chip ram 10kb
  * STM32F103c6t6
 
-<img src="/STM32F103-Bule-Pill-1536x1000.jpg">
+![img](https://github.com/prabagaran28/stm32_reset_to_main/blob/81539022e91b9031b348da0e93c03e85825ad277/STM32F103-Blue-Pill-1536x1000.jpg)
 
 ## Compiling with custom linker script and startup file
 
